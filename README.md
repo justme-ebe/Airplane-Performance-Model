@@ -22,9 +22,6 @@ The script is currently configured with the following default specifications (wh
 
 ## Results & Visualization
 
-![Aircraft Performance Plot](link-to-image.png)
-*(Note: Upload a screenshot of the generated plot to the repository and replace `link-to-image.png` with your actual image filename).*
-
 The generated plots visualize two critical performance boundaries at the target altitude:
 1.  **Power Curve Intersections:** Displays the convergence of Power Required (parasitic + induced) and Power Available, identifying the minimum and maximum level-flight velocities.
 2.  **Rate of Climb (ROC):** Maps the positive and negative climb rate boundaries across the airspeed spectrum, confirming physical flight limitations.
