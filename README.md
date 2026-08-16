@@ -24,7 +24,9 @@ The script is currently configured with the following default specifications (wh
 
 The generated plots visualize two critical performance boundaries at the target altitude:
 1.  **Power Curve Intersections:** Displays the convergence of Power Required (parasitic + induced) and Power Available, identifying the minimum and maximum level-flight velocities.
-2.  **Rate of Climb (ROC):** Maps the positive and negative climb rate boundaries across the airspeed spectrum, confirming physical flight limitations.
+2.  ![Aircraft Power Curve Plot](power.png)
+3.  **Rate of Climb (ROC):** Maps the positive and negative climb rate boundaries across the airspeed spectrum, confirming physical flight limitations.
+4.  ![Aircraft Rate Of Climb Plot](ROC.png)
 
 ## Execution and Setup
 1. Ensure MATLAB is installed on the local machine.
